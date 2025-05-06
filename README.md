@@ -14,3 +14,17 @@ Este projeto implementa o **Método do Caminho Crítico (Critical Path Method)**
   - Destaque em **vermelho** para atividades críticas.
 
 ---
+## ✨ Melhorias futuras
+
+  Dividir os blocos de cada tarefa em 4 quadrantes (ES, EF, LS, LF);
+
+  Permitir entrada por CSV ou planilha Excel;
+
+  Interface web com Streamlit ou Flask;
+
+  Exportar como PDF diretamente.
+
+## 📚 Referência
+
+Modelo visual baseado no artigo:
+https://escritoriodeprojetos.com.br/metodo-do-caminho-critico/
